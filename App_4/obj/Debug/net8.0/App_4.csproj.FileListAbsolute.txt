@@ -1,0 +1,14 @@
+D:\C#_проекты\FirstApp\App_4\bin\Debug\net8.0\App_4.exe
+D:\C#_проекты\FirstApp\App_4\bin\Debug\net8.0\App_4.deps.json
+D:\C#_проекты\FirstApp\App_4\bin\Debug\net8.0\App_4.runtimeconfig.json
+D:\C#_проекты\FirstApp\App_4\bin\Debug\net8.0\App_4.dll
+D:\C#_проекты\FirstApp\App_4\bin\Debug\net8.0\App_4.pdb
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.AssemblyInfoInputs.cache
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.AssemblyInfo.cs
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.csproj.CoreCompileInputs.cache
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.dll
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\refint\App_4.dll
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.pdb
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\App_4.genruntimeconfig.cache
+D:\C#_проекты\FirstApp\App_4\obj\Debug\net8.0\ref\App_4.dll
